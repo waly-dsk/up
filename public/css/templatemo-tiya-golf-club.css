@@ -7,7 +7,7 @@ https://templatemo.com/tm-587-tiya-golf-club
 */
 
 /*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
+  CUSTOM PROPERTIES ( VARIABLES )
 -----------------------------------------*/
 :root {
   --white-color: #ffffff;
@@ -47,7 +47,7 @@ body {
 }
 
 /*---------------------------------------
-  TYPOGRAPHY               
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h2,
@@ -128,7 +128,7 @@ strong {
 }
 
 /*---------------------------------------
-  SECTION               
+  SECTION
 -----------------------------------------*/
 .section-bg {
   background-color: var(--section-bg-color);
@@ -157,7 +157,7 @@ strong {
 }
 
 /*---------------------------------------
-  ANIMATED HEADLINE               
+  ANIMATED HEADLINE
 -----------------------------------------*/
 .cd-words-wrapper {
   display: inline-block;
@@ -354,7 +354,7 @@ strong {
 }
 
 /*---------------------------------------
-  CUSTOM BUTTON               
+  CUSTOM BUTTON
 -----------------------------------------*/
 .custom-btn {
   background: var(--custom-btn-bg-color);
@@ -400,7 +400,7 @@ strong {
 }
 
 /*---------------------------------------
-  NAVIGATION BAR & OFFCANVAS              
+  NAVIGATION BAR & OFFCANVAS
 -----------------------------------------*/
 .offcanvas {
   background-color: var(--primary-color);
@@ -637,10 +637,10 @@ strong {
 }
 
 /*---------------------------------------
-  HERO        
+  HERO
 -----------------------------------------*/
 .hero-section {
-  background-image: url("../images/anna-rosar-ZxFyVBHMK-c-unsplash.jpg");
+  background-image: url("../images/maxresdefault.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -688,7 +688,7 @@ strong {
 }
 
 /*---------------------------------------
-  BACKGROUND IMAGE SECTION        
+  BACKGROUND IMAGE SECTION
 -----------------------------------------*/
 .section-bg-image {
   background-image: url("../images/frederik-rosar-NDSZcCfnsbY-unsplash.jpg");
@@ -742,7 +742,7 @@ strong {
 }
 
 /*---------------------------------------
-  ABOUT SECTOIN              
+  ABOUT SECTOIN
 -----------------------------------------*/
 .about-section {
   padding-bottom: 70px;
@@ -789,7 +789,7 @@ strong {
 }
 
 /*---------------------------------------
-  CUSTOM BLOCK              
+  CUSTOM BLOCK
 -----------------------------------------*/
 .custom-block {
   border-radius: var(--border-radius-medium);
@@ -893,7 +893,7 @@ strong {
 }
 
 /*---------------------------------------
-  EVENTS SECTION            
+  EVENTS SECTION
 -----------------------------------------*/
 .events-section.section-bg .container > .row {
   margin-right: 5px;
@@ -924,7 +924,7 @@ strong {
 }
 
 /*---------------------------------------
-  MEMBERSHIP SECTION            
+  MEMBERSHIP SECTION
 -----------------------------------------*/
 .membership-section .container {
   position: relative;
@@ -981,7 +981,7 @@ strong {
 }
 
 /*---------------------------------------
-  CONTACT               
+  CONTACT
 -----------------------------------------*/
 .contact-form .form-floating > textarea {
   border-radius: var(--border-radius-medium);
@@ -1028,7 +1028,7 @@ strong {
 }
 
 /*---------------------------------------
-  SITE FOOTER            
+  SITE FOOTER
 -----------------------------------------*/
 .site-footer {
   position: relative;
@@ -1058,7 +1058,7 @@ strong {
 }
 
 /*---------------------------------------
-  CUSTOM FORM               
+  CUSTOM FORM
 -----------------------------------------*/
 .custom-form .form-control {
   border-radius: var(--border-radius-large);
@@ -1115,7 +1115,7 @@ strong {
 }
 
 /*---------------------------------------
-  SOCIAL ICON               
+  SOCIAL ICON
 -----------------------------------------*/
 .social-icon {
   margin: 0;
@@ -1148,7 +1148,7 @@ strong {
 }
 
 /*---------------------------------------
-  RESPONSIVE STYLES               
+  RESPONSIVE STYLES
 -----------------------------------------*/
 @media screen and (max-width: 991px) {
   h1 {
