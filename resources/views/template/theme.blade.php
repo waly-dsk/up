@@ -39,10 +39,11 @@
                                 L'Université
                             </a>
                             <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a class="dropdown-item" href="#">Actualités</a></li>
+                                <li><a class="dropdown-item" href="#">Mot du Recteur</a></li>
                                 <li><a class="dropdown-item" href="#">Vision et Mission</a></li>
-                                <li><a class="dropdown-item" href="#">Equipe rectorale</a></li>
+                                <li><a class="dropdown-item" href="#">Equipe Rectorale</a></li>
                                 <li><a class="dropdown-item" href="#">Services du Rectorat</a></li>
+                                <li><a class="dropdown-item" href="#">Actualités</a></li>
                                 <li><a class="dropdown-item" href="#">Contact</a></li>
                             </ul>
                         </li>
@@ -63,12 +64,12 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
                                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Recherhce
+                                Recherche
                             </a>
                             <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="#">Laboratoire</a></li>
                                 <li><a class="dropdown-item" href="#">Colloque</a></li>
-                                <li><a class="dropdown-item" href="#">Anales de l'UP</a></li>
+                                <li><a class="dropdown-item" href="#">Annales de l'UP</a></li>
                                 <li><a class="dropdown-item" href="#">Fonds compétitifs</a></li>
                             </ul>
                         </li>
